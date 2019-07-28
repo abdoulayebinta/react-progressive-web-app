@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "React Progressive Web App",
+  "name": "React Progressive Web App for learning purposes",
   "icons": [
     {
       "src": "favicon.ico",
